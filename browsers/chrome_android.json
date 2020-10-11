@@ -9,438 +9,563 @@
           "release_notes": "https://chromereleases.googleblog.com/2012/06/chrome-for-android-out-of-beta.html",
           "status": "retired",
           "engine": "WebKit",
-          "engine_version": "535.19"
+          "engine_version": "535.19",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "3.8.9"
         },
         "25": {
           "release_date": "2013-02-27",
           "release_notes": "https://chromereleases.googleblog.com/2013/02/chrome-for-android-update.html",
           "status": "retired",
           "engine": "WebKit",
-          "engine_version": "537.22"
+          "engine_version": "537.22",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "3.15.11"
         },
         "26": {
           "release_date": "2013-04-03",
           "release_notes": "https://chromereleases.googleblog.com/2013/04/chrome-for-android-stable-channel-update.html",
           "status": "retired",
           "engine": "WebKit",
-          "engine_version": "537.31"
+          "engine_version": "537.31",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "3.16.14"
         },
         "27": {
           "release_date": "2013-05-22",
           "release_notes": "https://chromereleases.googleblog.com/2013/05/chrome-for-android-update.html",
           "status": "retired",
           "engine": "WebKit",
-          "engine_version": "537.36"
+          "engine_version": "537.36",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "3.17.6"
         },
         "28": {
           "release_date": "2013-07-10",
           "release_notes": "https://chromereleases.googleblog.com/2013/07/chrome-for-android-update.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "28"
+          "engine_version": "28",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "3.18.5"
         },
         "29": {
           "release_date": "2013-08-21",
           "release_notes": "https://chromereleases.googleblog.com/2013/08/chrome-for-android-update.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "29"
+          "engine_version": "29",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "3.19.18"
         },
         "30": {
           "release_date": "2013-10-02",
           "release_notes": "https://chromereleases.googleblog.com/2013/10/chrome-for-android-update.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "30"
+          "engine_version": "30",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "3.20.17"
         },
         "31": {
           "release_date": "2013-11-14",
           "release_notes": "https://chromereleases.googleblog.com/2013/11/chrome-for-android-update.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "31"
+          "engine_version": "31",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "3.21.18"
         },
         "32": {
           "release_date": "2014-01-15",
           "release_notes": "https://chromereleases.googleblog.com/2014/01/chrome-for-android-update.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "32"
+          "engine_version": "32",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "3.22.24"
         },
         "33": {
           "release_date": "2014-02-26",
           "release_notes": "https://chromereleases.googleblog.com/2014/02/chrome-for-android-update.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "33"
+          "engine_version": "33",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "3.23.17"
         },
         "34": {
           "release_date": "2014-04-02",
           "release_notes": "https://chromereleases.googleblog.com/2014/04/chrome-for-android-update.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "34"
+          "engine_version": "34",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "3.24.35"
         },
         "35": {
           "release_date": "2014-05-20",
           "release_notes": "https://chromereleases.googleblog.com/2014/05/chrome-for-android-update.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "35"
+          "engine_version": "35",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "3.25.28"
         },
         "36": {
           "release_date": "2014-07-16",
           "release_notes": "https://chromereleases.googleblog.com/2014/07/chrome-for-android-update.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "36"
+          "engine_version": "36",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "3.26.31"
         },
         "37": {
           "release_date": "2014-09-03",
           "release_notes": "https://chromereleases.googleblog.com/2014/09/chrome-for-android-update.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "37"
+          "engine_version": "37",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "3.27.34"
         },
         "38": {
           "release_date": "2014-10-08",
           "release_notes": "https://chromereleases.googleblog.com/2014/10/chrome-for-android-update.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "38"
+          "engine_version": "38",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "3.28.71"
         },
         "39": {
           "release_date": "2014-11-12",
           "release_notes": "https://chromereleases.googleblog.com/2014/11/chrome-for-android-update.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "39"
+          "engine_version": "39",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "3.29.88"
         },
         "40": {
           "release_date": "2015-01-21",
           "release_notes": "https://chromereleases.googleblog.com/2015/01/chrome-for-android-update.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "40"
+          "engine_version": "40",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "3.30.33"
         },
         "41": {
           "release_date": "2015-03-11",
           "release_notes": "https://chromereleases.googleblog.com/2015/03/chrome-for-android-update.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "41"
+          "engine_version": "41",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "4.1.0"
         },
         "42": {
           "release_date": "2015-04-15",
           "release_notes": "https://chromereleases.googleblog.com/2015/04/chrome-for-android-update.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "42"
+          "engine_version": "42",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "4.2.77"
         },
         "43": {
           "release_date": "2015-05-27",
           "release_notes": "https://chromereleases.googleblog.com/2015/05/chrome-for-android-update.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "43"
+          "engine_version": "43",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "4.3.61"
         },
         "44": {
           "release_date": "2015-07-29",
           "release_notes": "https://chromereleases.googleblog.com/2015/07/chrome-for-android-update.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "44"
+          "engine_version": "44",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "4.4.63"
         },
         "45": {
           "release_date": "2015-09-01",
           "release_notes": "https://chromereleases.googleblog.com/2015/09/chrome-for-android-update.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "45"
+          "engine_version": "45",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "4.5.103"
         },
         "46": {
           "release_date": "2015-10-14",
           "release_notes": "https://chromereleases.googleblog.com/2015/10/chrome-for-android-update.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "46"
+          "engine_version": "46",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "4.6.85"
         },
         "47": {
           "release_date": "2015-12-02",
           "release_notes": "https://chromereleases.googleblog.com/2015/12/chrome-for-android-update.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "47"
+          "engine_version": "47",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "4.7.80"
         },
         "48": {
           "release_date": "2016-01-26",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "48"
+          "engine_version": "48",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "4.8.271"
         },
         "49": {
           "release_date": "2016-03-09",
           "release_notes": "https://chromereleases.googleblog.com/2016/03/chrome-for-android-update.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "49"
+          "engine_version": "49",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "4.9.385"
         },
         "50": {
           "release_date": "2016-04-13",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "50"
+          "engine_version": "50",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "5.0.71"
         },
         "51": {
           "release_date": "2016-06-08",
           "release_notes": "https://chromereleases.googleblog.com/2016/06/chrome-for-android-update.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "51"
+          "engine_version": "51",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "5.1.281"
         },
         "52": {
           "release_date": "2016-07-27",
           "release_notes": "https://chromereleases.googleblog.com/2016/07/chrome-for-android-update.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "52"
+          "engine_version": "52",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "5.2.361"
         },
         "53": {
           "release_date": "2016-09-07",
           "release_notes": "https://chromereleases.googleblog.com/2016/09/chrome-for-android-update.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "53"
+          "engine_version": "53",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "5.3.332"
         },
         "54": {
           "release_date": "2016-10-19",
           "release_notes": "https://chromereleases.googleblog.com/2016/10/chrome-for-android-update.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "54"
+          "engine_version": "54",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "5.4.500"
         },
         "55": {
           "release_date": "2016-12-06",
           "release_notes": "https://chromereleases.googleblog.com/2016/12/chrome-for-android-update.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "55"
+          "engine_version": "55",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "5.5.372"
         },
         "56": {
           "release_date": "2017-02-01",
           "release_notes": "https://chromereleases.googleblog.com/2017/02/chrome-for-android-update.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "56"
+          "engine_version": "56",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "5.6.326"
         },
         "57": {
           "release_date": "2017-03-16",
           "release_notes": "https://chromereleases.googleblog.com/2017/03/chrome-for-android-update.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "57"
+          "engine_version": "57",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "5.7.492"
         },
         "58": {
           "release_date": "2017-04-25",
           "release_notes": "https://chromereleases.googleblog.com/2017/04/chrome-for-android-update.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "58"
+          "engine_version": "58",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "5.8.283"
         },
         "59": {
           "release_date": "2017-06-06",
           "release_notes": "https://chromereleases.googleblog.com/2017/06/chrome-for-android-update.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "59"
+          "engine_version": "59",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "5.9.211"
         },
         "60": {
           "release_date": "2017-08-01",
           "release_notes": "https://chromereleases.googleblog.com/2017/08/chrome-for-android-update.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "60"
+          "engine_version": "60",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "6.0.286"
         },
         "61": {
           "release_date": "2017-09-05",
           "release_notes": "https://chromereleases.googleblog.com/2017/09/chrome-for-android-update.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "61"
+          "engine_version": "61",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "6.1.534"
         },
         "62": {
           "release_date": "2017-10-24",
           "release_notes": "https://chromereleases.googleblog.com/2017/10/chrome-for-android-update.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "62"
+          "engine_version": "62",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "6.2.414"
         },
         "63": {
           "release_date": "2017-12-05",
           "release_notes": "https://chromereleases.googleblog.com/2017/12/chrome-for-android-update.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "63"
+          "engine_version": "63",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "6.3.292"
         },
         "64": {
           "release_date": "2018-01-23",
           "release_notes": "https://chromereleases.googleblog.com/2018/01/chrome-for-android-update.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "64"
+          "engine_version": "64",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "6.4.388"
         },
         "65": {
           "release_date": "2018-03-06",
           "release_notes": "https://chromereleases.googleblog.com/2018/03/chrome-for-android-update.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "65"
+          "engine_version": "65",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "6.5.254"
         },
         "66": {
           "release_date": "2018-04-17",
           "release_notes": "https://chromereleases.googleblog.com/2018/04/chrome-for-android-update.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "66"
+          "engine_version": "66",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "6.6.346"
         },
         "67": {
           "release_date": "2018-05-31",
           "release_notes": "https://chromereleases.googleblog.com/2018/05/chrome-for-android-update_31.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "67"
+          "engine_version": "67",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "6.7.288"
         },
         "68": {
           "release_date": "2018-07-24",
           "release_notes": "https://chromereleases.googleblog.com/2018/07/chrome-for-android-update.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "68"
+          "engine_version": "68",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "6.8.275"
         },
         "69": {
           "release_date": "2018-09-04",
           "release_notes": "https://chromereleases.googleblog.com/2018/09/chrome-for-android-update.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "69"
+          "engine_version": "69",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "6.9.427"
         },
         "70": {
           "release_date": "2018-10-17",
           "release_notes": "https://chromereleases.googleblog.com/2018/10/chrome-for-android-update.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "70"
+          "engine_version": "70",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "7.0.276"
         },
         "71": {
           "release_date": "2018-12-04",
           "release_notes": "https://chromereleases.googleblog.com/2018/12/chrome-for-android-update.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "71"
+          "engine_version": "71",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "7.1.302"
         },
         "72": {
           "release_date": "2019-01-29",
           "release_notes": "https://chromereleases.googleblog.com/2019/01/chrome-for-android-update_29.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "72"
+          "engine_version": "72",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "7.2.502"
         },
         "73": {
           "release_date": "2019-03-12",
           "release_notes": "https://chromereleases.googleblog.com/2019/03/chrome-for-android-update_12.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "73"
+          "engine_version": "73",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "7.3.492"
         },
         "74": {
           "release_date": "2019-04-24",
           "release_notes": "https://chromereleases.googleblog.com/2019/04/chrome-for-android-update.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "74"
+          "engine_version": "74",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "7.4.288"
         },
         "75": {
           "release_date": "2019-06-04",
           "release_notes": "https://chromereleases.googleblog.com/2019/06/chrome-for-android-update.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "75"
+          "engine_version": "75",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "7.5.288"
         },
         "76": {
           "release_date": "2019-07-30",
           "release_notes": "https://chromereleases.googleblog.com/2019/07/chrome-for-android-update_30.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "76"
+          "engine_version": "76",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "7.6.303"
         },
         "77": {
           "release_date": "2019-09-10",
           "release_notes": "https://chromereleases.googleblog.com/2019/09/chrome-for-android-update.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "77"
+          "engine_version": "77",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "7.7.299"
         },
         "78": {
           "release_date": "2019-10-22",
           "release_notes": "https://chromereleases.googleblog.com/2019/10/chrome-for-android-update_22.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "78"
+          "engine_version": "78",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "7.8.279"
         },
         "79": {
           "release_date": "2019-12-17",
           "release_notes": "https://chromereleases.googleblog.com/2019/12/chrome-for-android-update_17.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "79"
+          "engine_version": "79",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "7.9.317"
         },
         "80": {
           "release_date": "2020-02-04",
           "release_notes": "https://chromereleases.googleblog.com/2020/02/chrome-for-android-update.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "80"
+          "engine_version": "80",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "8.0.426"
         },
         "81": {
           "release_date": "2020-04-07",
           "release_notes": "https://chromereleases.googleblog.com/2020/04/chrome-for-android-update.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "81"
+          "engine_version": "81",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "8.1.307"
         },
         "83": {
           "release_date": "2020-05-19",
           "release_notes": "https://chromereleases.googleblog.com/2020/05/chrome-for-android-update_19.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "83"
+          "engine_version": "83",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "8.3.110"
         },
         "84": {
           "release_date": "2020-07-27",
           "release_notes": "https://chromereleases.googleblog.com/2020/07/chrome-for-android-update_27.html",
           "status": "retired",
           "engine": "Blink",
-          "engine_version": "84"
+          "engine_version": "84",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "8.4.371"
         },
         "85": {
           "release_date": "2020-08-25",
           "release_notes": "https://chromereleases.googleblog.com/2020/08/chrome-for-android-update.html",
           "status": "current",
           "engine": "Blink",
-          "engine_version": "85"
+          "engine_version": "85",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "8.5.210"
         },
         "86": {
           "status": "beta",
           "engine": "Blink",
-          "engine_version": "86"
+          "engine_version": "86",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "8.6.395"
         },
         "87": {
           "status": "nightly",
           "engine": "Blink",
-          "engine_version": "87"
+          "engine_version": "87",
+          "javascript_engine": "V8",
+          "javascript_engine_version": "8.7"
         }
       }
     }
   }
 }
-
