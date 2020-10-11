@@ -10,7 +10,7 @@
           "status": "retired",
           "engine": "EdgeHTML",
           "engine_version": "12",
-          "javascript_engine": "Chakra"
+          "javascript_engine": "Chakra(JavaScript)"
         },
         "13": {
           "release_date": "2015-11-12",
@@ -18,7 +18,7 @@
           "status": "retired",
           "engine": "EdgeHTML",
           "engine_version": "13",
-          "javascript_engine": "Chakra"
+          "javascript_engine": "Chakra(JavaScript)"
         },
         "14": {
           "release_date": "2016-08-02",
@@ -26,7 +26,7 @@
           "status": "retired",
           "engine": "EdgeHTML",
           "engine_version": "14",
-          "javascript_engine": "Chakra"
+          "javascript_engine": "Chakra(JavaScript)"
         },
         "15": {
           "release_date": "2017-04-05",
@@ -34,7 +34,7 @@
           "status": "retired",
           "engine": "EdgeHTML",
           "engine_version": "15",
-          "javascript_engine": "Chakra"
+          "javascript_engine": "Chakra(JavaScript)"
         },
         "16": {
           "release_date": "2017-10-17",
@@ -42,7 +42,7 @@
           "status": "retired",
           "engine": "EdgeHTML",
           "engine_version": "16",
-          "javascript_engine": "Chakra"
+          "javascript_engine": "Chakra(JavaScript)"
         },
         "17": {
           "release_date": "2018-04-30",
@@ -50,7 +50,7 @@
           "status": "retired",
           "engine": "EdgeHTML",
           "engine_version": "17",
-          "javascript_engine": "Chakra"
+          "javascript_engine": "Chakra(JavaScript)"
         },
         "18": {
           "release_date": "2018-10-02",
@@ -58,7 +58,7 @@
           "status": "retired",
           "engine": "EdgeHTML",
           "engine_version": "18",
-          "javascript_engine": "Chakra"
+          "javascript_engine": "Chakra(JavaScript)"
         },
         "79": {
           "release_date": "2020-01-15",
